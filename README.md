@@ -41,6 +41,12 @@ CSS modular por componente
 Instalación
 Clonar repositorio
 
+npm install
+
+npm start
+
+Nota: Proyecto enfocado en maquetación frontend.
+
 
 
 ![image](https://github.com/user-attachments/assets/994bb4d3-a033-4e46-bb57-d0a090a90b64)
@@ -63,8 +69,3 @@ Clonar repositorio
 
 
 
-npm install
-
-npm start
-
-Nota: Proyecto enfocado en maquetación frontend sin backend real.
